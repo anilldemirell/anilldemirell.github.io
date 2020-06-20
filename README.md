@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages-Anıl Maraba lan
 
-![Githup Logo] (https://www.google.com/search?q=logo&sxsrf=ALeKk02xSGJovCDmkJHm2x6noWagI3ZyNA:1592618772005&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjW06uhp4_qAhXTxcQBHRXQAy4Q_AUoAXoECA0QAw&biw=1242&bih=597#imgrc=FhXLYxH4QuePaM)
 
 Hello world!
 
