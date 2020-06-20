@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages-Anıl Maraba lan
 
+![Githup Logo](/images/logo-entegrasyon.jpg) (file:///C:/Users/Dell/Desktop/logo-entegrasyon.jpg)
+
 Hello world!
 
 This is my blog:
