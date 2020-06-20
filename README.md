@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages-Anıl
 
-You can use the [editor on GitHub](https://github.com/anilldemirell/anilldemirell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello world!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my blog:
 
 ### Markdown
 
